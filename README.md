@@ -12,3 +12,4 @@ A curated list of awesomely catchy phrases/words to use while describing yoursel
 * Software/Code Artisan
 * Code Junkie
 * Everything DevOps
+* Code Ninja
